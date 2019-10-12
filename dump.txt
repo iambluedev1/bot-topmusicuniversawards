@@ -1,0 +1,53 @@
+KPOP SONG OF THE YEAR
+10425720
+https://secure.polldaddy.com/p/10425720.js
+e76f57c55e928a75f16db9271bc01485
+48110377
+
+p: 10425720
+b: 0
+a: 48110377,
+o: 
+va: 0
+cookie: 0
+n: 6775dc4e20|355
+url: http://www.topmusicuniverseawards.com/2019/04/top-music-universe-awards-2019.html
+
+
+KPOP ALBUM/ MINI ALBUM OF THE YEAR
+10425723
+https://secure.polldaddy.com/p/10425723.js
+b395db7944b8c6295052b872e98ccf69
+48110393
+
+p: 10425723
+b: 0
+a: 48110393,
+o: 
+va: 0
+cookie: 0
+n: bd89f3c2cf|397
+url: http://www.topmusicuniverseawards.com/2019/04/top-music-universe-awards-2019.html
+
+KPOP COLLABORATION OF THE YEAR
+10425724
+https://secure.polldaddy.com/p/10425724.js
+0946453175451f3fcea710bd2ac4b240
+48110400
+
+BLACKPINK vs GIRLSGENERATION
+10414417
+https://secure.polldaddy.com/p/10414417.js
+79b470aab4b3a17064e9024a4571af5d
+48045252
+
+p: 10414417
+b: 0
+a: 48045252,
+o: 
+va: 0
+cookie: 0
+n: 5fde4444fc|512
+url: http://www.topmusicuniverseawards.com/2019/04/top-music-universe-awards-2019.html
+
+
